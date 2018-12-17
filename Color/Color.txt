@@ -1,5 +1,3 @@
-# Color Extensions
-
 ### CSS Colornames
 CSS Colornames as a list.
 
