@@ -1,7 +1,6 @@
 {
 "SystemSounds": "SystemSounds A set of system sounds",
 "Unicode": "A set of unicode bars",
-"OutputKit": "Tags for marking up html with Bootstrap components",
-"ColorKit": "A number of tools for working with color",
- "WebKit": "All the CSS/templates you could want etc you could want"
+"Color": "A number of tools for working with color",
+ "Web": "All the CSS/templates you could want etc you could want"
 }
