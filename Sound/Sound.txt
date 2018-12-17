@@ -1,12 +1,12 @@
-#Sound Extensions
+# Sound Extensions
 
-###All System Sounds
+### All System Sounds
 List of System Sounds and the path to the files.
 
-###Sound
+### Sound
 
 
-###Tiny Sound Set
+### Tiny Sound Set
 A small set of Base64 sounds
 
 
