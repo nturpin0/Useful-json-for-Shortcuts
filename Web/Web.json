@@ -1,1 +1,3 @@
-{ "Bootstrap includes": "Basic bootstrap includes and font awesome" }
+{ "Bootstrap includes": "Basic bootstrap includes and font awesome",
+ "Skeleton": "SkeletonBegin /SkeletonEnd
+}
