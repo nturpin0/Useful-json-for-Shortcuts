@@ -1,4 +1,4 @@
-### Bootstrap Includes
+#### Bootstrap Includes
 
-### Skeleton
+#### Skeleton
 Just put SkeletonBegin and Skeleton end before and after your html. You should also take advantage of the standard DIVs which havent been included yet
