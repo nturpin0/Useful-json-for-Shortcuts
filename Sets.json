@@ -1,6 +1,11 @@
 {
+ "Color": "A number of tools for working with color",
+ "Icons": "icon stuff",
+  "Lists": "for working with Lists",
+  "Media": "BBC stream urls",
 "Sound": "SystemSounds A set of system sounds",
 "Unicode": "A set of unicode bars",
-"Color": "A number of tools for working with color",
- "Web": "All the CSS/templates you could want etc you could want"
+ "Web": "All the CSS/templates you could want etc you could want",
+ "Icons": "icon stuff"
+ 
 }
