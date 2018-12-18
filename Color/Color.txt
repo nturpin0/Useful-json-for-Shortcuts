@@ -1,9 +1,9 @@
 ### CSS Colornames
-CSS Colornames as a list.
+CSS Colornames as a list. Do not use with All CSS Colornames and Hashes, or you will get a name collision, and why would you need both anyway?
 
-### Color tools
+### Color menu
 A set of vcf cards with single color names to use as a color chooser.
-instructions here
+mlcolor
 
 ### All CSS Colornames and Hashes
-All CSS colornames, and hash values.
+All CSS colornames, and hash values. Dont use with CSS Colornames, as you will get a name collision.
