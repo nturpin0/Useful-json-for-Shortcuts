@@ -1,7 +1,8 @@
 {
  "Color": "A number of tools for working with color",
  "Icons": "icon stuff",
-  "Lists": "for working with Lists",
+ "BW Font Awesome Icons": "Small Base64 Encoded Font Awesome Icons",
+   "Lists": "for working with Lists",
   "Media": "BBC stream urls",
 "Sound": "SystemSounds A set of system sounds",
 "Unicode": "A set of unicode bars",
